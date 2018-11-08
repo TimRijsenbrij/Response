@@ -1,0 +1,57 @@
+body {
+    background-color:rgb(250,241,234);
+    font-family: 'raleway', sans-serif;
+    margin:0px;
+    padding:0px;
+
+}
+
+header {
+    background-color:rgb(192,240,233);
+    text-align: center;
+
+}
+
+img#logo {
+    width:320px;
+}
+
+
+ul {
+    margin:0px;
+    padding:0px;
+
+}
+
+li {
+    background-color:rgb(128,128,128);
+    padding:10px;
+    border-top:1px solid white;
+    font-weight:600;
+}
+
+li a{
+    color:white;
+    text-decoration: none;
+
+}
+
+h3 {
+    color:rgb(220,106,94);
+    font-size:22px;
+    font-weight:600;
+    text-align: left;
+    padding: 20px;
+}
+
+img#logo {
+    width:320px;
+}
+section {
+    padding:20px;
+
+}
+
+footer {
+    text-align: center;
+}
